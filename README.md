@@ -6,4 +6,4 @@
 
 **Keywords:** Risk Assessment, Vulnerable Regions, Deep Learning, Satellite Imagery, PyTorch Neural Network, Building Label Identification, Physical Characteristics, Meteorological Factors, Disaster Management.
 
-<img src="https://github.com/sagarlimbu0/Enhancing-Building-Object-Detection-in-Satellite-Imagery-through-Sentinel-2-Image-Preprocessing/blob/main/data/screenshots/image_preprocessing.jpg" alt="Google Colab" width="800" height="400">
+<img src="https://github.com/sagarlimbu0/Enhancing-Building-Object-Detection-in-Satellite-Imagery-through-Sentinel-2-Image-Preprocessing/blob/main/data/screenshots/image_preprocessing.jpg" alt="Google Colab" width="800" height="600">
